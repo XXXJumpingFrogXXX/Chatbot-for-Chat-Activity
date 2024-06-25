@@ -18,4 +18,4 @@ First Week: https://medium.com/@qxwang27/gsoc-weekly-update-my-project-journey-w
 
 Second Week: https://medium.com/@qxwang27/gsoc-weekly-update-second-fine-tuning-of-the-model-f59237198853
 
-Third Week(Latest):
+Third Week(Latest):https://medium.com/@qxwang27/gsoc-weekly-update-an-attempt-to-integrate-with-google-gemma-de925979f8cb
